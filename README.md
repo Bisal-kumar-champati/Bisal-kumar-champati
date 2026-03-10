@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/Dio-005571?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST API-005571?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Location Tracking-4CAF50?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agora Video Calling-1E88E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Razorpay Payment-0C2451?style=for-the-badge"/>
 
